@@ -6,7 +6,7 @@ We're a collaborative group of developers passionate about building and maintain
 - **Sujal** ([@Sujalcha7](https://github.com/Sujalcha7))
 - **Subekshya** ([@Subekshya](https://github.com/Subekshyeah))
 - **Saurav** ([@Saurav](https://github.com/sauravdhoju))
-- **Roj** ([@Roj](https://github.com/Sreinumder))
+- **Roj** ([@Roj](https://github.com/Sreinumder))<br>
 **New Members** 🎉  
 - **Nimesh** ([@nimeshakya](https://github.com/nimeshakya))  
 - **Jeena** ([@jeenakarmi](https://github.com/jeenakarmi))  
