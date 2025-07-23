@@ -7,9 +7,10 @@ We're a collaborative group of developers working together to build and maintain
 [@Subekshya](https://github.com/Subekshyeah)
 [@Saurav](https://github.com/sauravdhoju)
 [@Roj](https://github.com/Sreinumder)
-[@Nimesh](https://github.com/nimeshakya) — New Member  
-[@Jeena](https://github.com/jeenakarmi) — New Member  
-[@Kiran](https://github.com/KiranKhayamali) — New Member
+— New Members
+[@Nimesh](https://github.com/nimeshakya)   
+[@Jeena](https://github.com/jeenakarmi)
+[@Kiran](https://github.com/KiranKhayamali)
 
 We're excited to have our new members on board, bringing fresh perspectives and skills to the team!
 About the Project
