@@ -3,10 +3,10 @@ Welcome to the official repository for the Accounts project, maintained by our t
 Our Team
 We're a collaborative group of developers passionate about building and maintaining this project. Meet our amazing team:
 
-[@Sujalcha7](https://github.com/Sujalcha7)
-[@Subekshya](https://github.com/Subekshyeah)
-[@Saurav](https://github.com/sauravdhoju)
-[@Roj](https://github.com/Sreinumder)
+- **Sujal** [@Sujalcha7](https://github.com/Sujalcha7)
+- **Subekshya** [@Subekshya](https://github.com/Subekshyeah)
+- **Saurav** [@Saurav](https://github.com/sauravdhoju)
+- **Roj** [@Roj](https://github.com/Sreinumder)
 
 **New Members** 🎉  
 - **Nimesh** ([@nimeshakya](https://github.com/nimeshakya))  
