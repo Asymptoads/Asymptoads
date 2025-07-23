@@ -6,9 +6,9 @@ A team of talented and dedicated developers! 🚀
 
 ## 👥 Team Members
 
-Meet our amazing team:
 
-### Team
+
+### Meet our amazing team:
 - **Sujal** - [@Sujalcha7](https://github.com/Sujalcha7)
 - **Subekshya** - [@Subekshya](https://github.com/Subekshyeah)
 - **Saurav** - [@Saurav](https://github.com/sauravdhoju)
