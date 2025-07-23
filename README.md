@@ -1,6 +1,6 @@
-# Accounts Repository
+# Welcome to Asymptoads
 
-Welcome to Asymptoads, meticulously maintained by a team of talented and dedicated developers! 🚀
+A team of talented and dedicated developers! 🚀
 
 ---
 
